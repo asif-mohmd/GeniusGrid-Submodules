@@ -1,0 +1,27 @@
+[submodule "GeniusGrid-Client"]
+	path = GeniusGrid-Client
+	url = https://github.com/asif-mohmd/GeniusGrid-Client.git
+[submodule "Order-service"]
+	path = Order-service
+	url = https://github.com/asif-mohmd/Order-service.git
+[submodule "User-service"]
+	path = User-service
+	url = https://github.com/asif-mohmd/User-service.git
+[submodule "Instructor-service"]
+	path = Instructor-service
+	url = https://github.com/asif-mohmd/Instructor-service.git
+[submodule "Course-service"]
+	path = Course-service
+	url = https://github.com/asif-mohmd/Course-service.git
+[submodule "Transcode-service"]
+	path = Transcode-service
+	url = https://github.com/asif-mohmd/Transcode-service.git
+[submodule "Auth-service"]
+	path = Auth-service
+	url = https://github.com/asif-mohmd/Auth-service.git
+[submodule "Admin-service"]
+	path = Admin-service
+	url = https://github.com/asif-mohmd/Admin-service.git
+[submodule "API-Gateway-service"]
+	path = API-Gateway-service
+	url = https://github.com/asif-mohmd/API-Gateway-service.git
